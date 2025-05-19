@@ -39,3 +39,10 @@ Bu teknik, arama motorlarını manipüle etmeyi amaçladığı için **Black Hat
     <p>Adidas, Nike, Puma %50 indirimli...</p>
   </body>
 </html>
+<!-- Kullanıcıya gösterilen sayfa -->
+<html>
+  <head><title>Home</title></head>
+  <body>
+    <script src="app.js"></script>
+  </body>
+</html>
