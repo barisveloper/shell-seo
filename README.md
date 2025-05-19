@@ -1,7 +1,5 @@
 # Shell SEO Nedir?
 
-## Giriş
-
 **Shell SEO**, arama motorları tarafından taranan ancak kullanıcılar için görünmeyen sahte veya düşük kaliteli içerik sunma yöntemidir. Genellikle JavaScript tabanlı sitelerde, sunucu tarafında (server-side) özel olarak arama motorlarına yönelik bir sayfa sunulurken, gerçek kullanıcıya farklı veya zayıf içerikli bir sayfa gösterilir.
 
 Bu durum **"Cloaking"** (örtme/gizleme) olarak da adlandırılır ve arama motoru yönergelerine aykırıdır.
